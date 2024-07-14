@@ -1,3 +1,3 @@
 #Amazon Clone
 <br>
-author-Yash doyal
+Designed by-Yash doyal
